@@ -1,8 +1,7 @@
 Fotos del vehículo
 ====
 
-![ejemplo del vehiculo](Madaura-
-/arriba.jpeg)
+![ejemplo del vehiculo](Madaura-/arriba.jpeg)
 ---
 
 Vehicle's photos

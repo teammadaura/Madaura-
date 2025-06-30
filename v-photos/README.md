@@ -1,7 +1,7 @@
 Fotos del vehículo
 ====
 
-![ejemplo del vehiculo](image-url)
+![ejemplo del vehiculo](arriba.jpeg)
 ---
 
 Vehicle's photos

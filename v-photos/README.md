@@ -1,6 +1,6 @@
 Fotos del vehículo
 ====
 
-![Vehicle](example.png)
+![Vehicle](v-photos/front.jpeg)
 
 ---

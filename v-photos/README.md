@@ -1,5 +1,5 @@
 Fotos del vehículo
 ====
 
-![ejemplo del vehiculo](media/top.jpeg)
+![vehicle](media/top.jpeg)
 ---

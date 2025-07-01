@@ -4,6 +4,7 @@ Fotos del equipo
 Este directorio debe contener 2 fotos del equipo (una oficial y una foto divertida con todos los miembros del equipo)
 
 ![Example Image](serious.jpg)
+![Example Image](working.jpeg)
 ---
 
 Team's photos

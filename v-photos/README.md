@@ -1,5 +1,5 @@
 Fotos del vehículo
 ====
 
-![ejemplo del vehiculo](front.jpg)
+![ejemplo del vehiculo](media/front.pg)
 ---

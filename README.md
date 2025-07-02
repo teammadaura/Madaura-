@@ -10,3 +10,5 @@ Descripción Técnica del Proyecto Robótico WRO 2025
 ¿Dónde se puede obtener soporte técnico para el proyecto? El soporte técnico para el proyecto puede ser provisto por el personal docente y administrativo de la UEP San Agustín, así como por los representantes de los estudiantes que forman parte del club de robótica.
 
 ¿Quiénes son los responsables del mantenimiento y las contribuciones al proyecto? El proyecto es mantenido y desarrollado a través de la colaboración entre docentes y estudiantes de la UEP San Agustín. Además, se cuenta con la asistencia de profesionales externos en el campo de la robótica, como por ejemplo, el Padre de Samuel Tua.
+
+---
